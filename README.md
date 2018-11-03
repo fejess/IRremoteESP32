@@ -1,6 +1,6 @@
 # IRremoteESP32
 
-Basen on: `https://github.com/markszabo/IRremoteESP8266/blob/master/src/IRsend.cpp#L62`
+Based on: `https://github.com/markszabo/IRremoteESP8266/blob/master/src/IRsend.cpp#L62`
 
 ## Simple 
 
